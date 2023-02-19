@@ -97,28 +97,28 @@ img {vertical-align: middle;}
 
 .body {
 	font-family: 'Tinos', serif;
-	font-size: 15px;
+	font-size: 20px;
   text-align: justify;
 }
 
 h1 {
 	font-family: 'Special Elite', cursive;
-	font-size: 40px;
+	font-size: 56px;
 }
 
 h3 {
 	font-family: 'Special Elite', cursive;
-	font-size: 20px;
+	font-size: 30px;
 }
 
 h2 {
   font-family: "Tinos", serif;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .byline {
   font-family: 'Tinos', serif;
-	font-size: 15px;
+	font-size: 20px;
   font-weight: bold;
 }
 
@@ -135,7 +135,7 @@ img {
 .quote {
   text-align: center;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .credits {
